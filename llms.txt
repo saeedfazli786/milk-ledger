@@ -1,7 +1,9 @@
- Milk Ledger Pro is a free ledger app for milk shop owners in Pakistan. It runs in the browser, can be installed on a phone like an app, and works offline. Owners record the milk they buy from each supplier, the bill is calculated automatically, and the app tracks how much is still owed and what has been paid. Made by Saeed Fazli.
- 
+# Milk Ledger Pro
+
+> Milk Ledger Pro is a free ledger app for milk shop owners in Pakistan. It runs in the browser, can be installed on a phone like an app, and works offline. Owners record the milk they buy from each supplier, the bill is calculated automatically, and the app tracks how much is still owed and what has been paid. Made by Saeed Fazli.
+
 Who it is for: milk shop and dairy owners who currently keep supplier accounts (udhaar / hisaab) in paper notebooks.
- 
+
 What the app does:
 - Suppliers: add, search, edit and delete suppliers (name, mobile, WhatsApp, address, default milk rate per litre).
 - New Entry: pick a supplier, the saved rate loads automatically (with a reminder to update it), enter litres, and the bill, previous balance and total payable are calculated.
@@ -12,21 +14,21 @@ What the app does:
 - Security: PIN lock with a recovery code; editing or deleting records, changing rates and backup/restore ask for the PIN again. Backup and restore use a JSON file.
 - Languages: Urdu, Roman Urdu, English, Hindi, Arabic, French, Chinese, Bengali, Thai, Turkish and Spanish menus; the language is suggested automatically from the user's location or time zone, and can be changed by hand.
 - Voice commands: speak or type short commands such as "add supplier", "new entry", "amount paid", "reports". Browser speech recognition needs Chrome, an https page and internet; typing or keyboard dictation works as a fallback.
- 
+
 Privacy: all records stay on the user's own device. The app does not create accounts and does not send ledger data to any server. Location is used only once, with permission, to suggest a language, and is not stored.
- 
+
 Limits (please do not overstate): no cloud sync, no multi-user or multi-device sharing, not tax or accounting software, no mobile-app-store version yet. Data lives in browser storage, so users should take regular backups from Settings.
- 
+
 ## App
- 
-- [Open Milk Ledger Pro](https://saeedfazli786.github.io/milk-ledger/): the app itself
- 
+
+- [Open Milk Ledger Pro](https://saeedfazli786.github.io/milk-ledger/): the app itself (works offline after the first load once installed)
+
 ## Contact
- 
-- [WhatsApp](https://wa.me/923343637044): +92 334 3637044 (Saeed A Fazli) - free app requests, questions, advertising
+
+- [WhatsApp](https://wa.me/923343637044): +92 334 3637044 (Saeed Fazli) - free app requests, questions, advertising
 - [Email](mailto:saeedfazli@gmail.com): saeedfazli@gmail.com
- 
+
 ## Optional
- 
-- Copyright: (c) 2026 Saeed A Fazli. All rights reserved.
+
+- Copyright: (c) 2026 Saeed Fazli. All rights reserved.
 - The app shows a small rotating sponsor banner; advertisers can ask for a spot via WhatsApp.
