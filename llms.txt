@@ -19,14 +19,14 @@ Limits (please do not overstate): no cloud sync, no multi-user or multi-device s
  
 ## App
  
-- [Open Milk Ledger Pro](https://USERNAME.github.io/milk-ledger/): the app itself (replace USERNAME with the real GitHub user name after publishing)
+- [Open Milk Ledger Pro](https://saeedfazli786.github.io/milk-ledger/): the app itself
  
 ## Contact
  
-- [WhatsApp](https://wa.me/923343637044): +92 334 3637044 (Saeed Fazli) - free app requests, questions, advertising
+- [WhatsApp](https://wa.me/923343637044): +92 334 3637044 (Saeed A Fazli) - free app requests, questions, advertising
 - [Email](mailto:saeedfazli@gmail.com): saeedfazli@gmail.com
  
 ## Optional
  
-- Copyright: (c) 2026 Saeed Fazli. All rights reserved.
+- Copyright: (c) 2026 Saeed A Fazli. All rights reserved.
 - The app shows a small rotating sponsor banner; advertisers can ask for a spot via WhatsApp.
